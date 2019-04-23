@@ -2,7 +2,7 @@
 
 前端系统：提供编程模型，负责构造计算图，支持多语言，其中Python提供的 API最为成熟。
 后端系统：负责计算图的执行，使用C++实现，直接操作分布式的CPU/GPU环境，提供运行时环境，负责执行计算图。
-![image](https://github.com/heng318/study/blob/master/images/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
+![](https://github.com/heng318/study/blob/master/images/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
 
 1、Client
 Client是基于TensorFlow的编程接口，主要是用来构建计算图
