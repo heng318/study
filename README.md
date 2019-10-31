@@ -1,2 +1,2 @@
 # study
-初学tensorflow
+记录一些学习笔记
